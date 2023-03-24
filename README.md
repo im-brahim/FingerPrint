@@ -1,7 +1,7 @@
 # FingerPrint project
 
 # Tools:
-Python - PyQt5(for creat desktop app) - MySQL Workbench .
+Python 3.8 - PyQt5(for creat desktop app) - MySQL Workbench .
 
 # About Data :
 Data are fingerprint images(bmp) [train & test] (Look at src/data).
