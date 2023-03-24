@@ -1,0 +1,8 @@
+share/
+lib/
+etc/
+bin/
+icons/
+__pycache__/
+
+

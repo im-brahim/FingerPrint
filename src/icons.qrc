@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/home.png</file>
+        <file>icons/persons.png</file>
+        <file>icons/bio.jpeg</file>
+        <file>icons/zaa.png</file>
+        <file>icons/aa.png</file>
+        <file>icons/info.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/fight.png</file>
+        <file>icons/brain.png</file>
+        <file>icons/1.png</file>
+        <file>icons/2.png</file>
+    </qresource>
+</RCC>
